@@ -1,6 +1,9 @@
 public class average {
 
    public static double getAverage(int[] arr) {
+
+
+
         double sum = 0;
         for(int i : arr) {
             sum += i;
